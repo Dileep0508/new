@@ -1,0 +1,192 @@
+Welcome to Quality though to learn CLoud Data engineering course by using GCP
+**********************************************************************************
+Name: Srinivas
+Exp: 17+ years of exp
+9 to 10 years --> ETL Developer and ETL Dev lead [Informatica/datastage/abinitio/Teradata (database)]
+		      --> 3 to 4 years --> Data engineer by using hadoop stack [sqoop/spark/monogod/hive...]
+			  --> 4 to 5 years --> CLoud Data engineer and CLoud Data engineer Lead
+			  
+			  Cloud architect --> MNC
+			  
+******************************************************************************************
+
+17 years of exp --> Data Data Data Data 
+
+******************************************************************************************
+
+Cloud Data engineer:
+--------------------
+
+If you want to become cloud data engineer --> we need to understand what all are prequisites --> 
+
+1. Database Concepts [mysql/tearadata/sqlserver] ==> Mysql ==> Scratch to advance level
+2. Programming Language [java/scala/python] ==> Python [Python scripting] ==> Scratch to advanced level
+3. Bigdata Concepts --> cover
+4. hadoop Concepts  --> cover
+5. Spark  --> Pyspark --> cover
+6. Datawarehousing Concepts  --> cover
+7. Any one of the Cloud [aws/azure/gcp] --> GCP Cloud --> [GCP services: Google cloud storage, Compute Enginer, Cloud SQL, Dataproc, Dataflow, Bigquery, Composer, Pub/Sub, AIrflow]
+8. Process we will follow in our teal time projects [Agile process , Confluence page, Git - code, Jira]
+
+SPARK is framework -->
+	If you want to use spark in your project 
+		Spark + Python
+		Spark + Scala
+		Spark + java
+**********************************************************************************************************		
+Cloud Data engineer:
+--------------------
+
+Cloud - 
+Data - 
+
+What is Data?
+Data is nothing but collection of raw material in unorganized format
+
+1
+2
+3
+4
+5
+6
+
+Ganga
+
+What is information?
+If you are going to maintain data in meanigful format such kind of data we can call it as information.
+
+customer_id
+-----------
+1
+2
+3
+4
+5
+6
+
+customer_name
+-------------
+Ganga
+
+If we are going to work in real time projects --> we will get all the data in unorganized format 
+
+banking sector:
+
+saving.txt [transactions] - 1cr
+loans.json [transactions] - 2cr 
+credicard.xml [transactions] - 10cr
+current table [transactions] - 15cr
+
+By using all above files --> I want to understand what is my total turnover of the company/branch --> 
+
+Total turnover --> Total transactions --> summing operations between text and json file and xml file and table --> is it possible ?????
+
+You can not able to perform summing oepration between files --> can not able to get total turnover  --> analysis --> 
+
+In all the files we are having data --> but by using this data are we able to achieve our rquirement?
+
+By using above files data we can not able to achieve our requirement --. for that reason above data we can call it as unorganized data.
+
+If I want to achieve my requirement --> any guesses what operations we need to perform --> 
+Convert unorganized data into organized format --> 
+
+saving.txt [transactions] - 1cr --> savings tables
+loans.json [transactions] - 2cr  --> loans tables
+credicard.xml [transactions] - 10cr --> credit card table
+current table [transactions] - 15cr --> current table
+
+Now we are having data in tabular format --> Can we able to perform summing operations or not?? --> YES (SQL) --> total turnover --> analysis --> Decission
+
+Whatever the data we are maintining in the tables that data we can call it as meaningful data or useful data or information.
+
+---------------------
+Data and Information:
+---------------------
+
+Datwarehousing process:
+-----------------------
+Collection of data different types of the sources , then we are converting unorganized data into organized format to perform analysis to take the decissions.
+
+In this DWH process what activities we are going to perform? E,T,L
+
+1. collection of the data --> extraction of the data --> E
+2. unorganized data into organized dformat --> transformation --> T
+3. Loading --> L
+
+How we are going to perform this ETL operations to build your DWH system?
+	1. BY using ETL tools in the market [Informatica/datastage/abinitio/SSIS/talend....]
+		Prbolem: License, we need to spend more money
+	2. Hadoop came into the picture --> Huge amount of data [big data]
+		Adv: Open source, Free of cost [storage and processing]
+		Most of the companies/some of the companies --> started mgrating to hadoop
+		
+		Prbolem: If you want to use hadoop --> we need to maintain hadoop clusters 
+		cluster - Group of machines
+		
+		1. Purchase the machines
+		2. Setup all the machines
+		3. OS / Softwares
+		4. SEcurity patches
+		5. Upgradation on your machines
+		6. Maintaice activities on your machines
+		
+		Onpremise --> Manually 
+		To perfrom all above activities again we need to spend more time and more money
+		
+	3. Cloud came into the picture
+		Cloud - If you can able to get any service over the internet 
+			  - Cloud will take care of all the infra setup activities
+		
+		Cloud --> raise a request --> you will get a machine [virtually] --> internet
+		
+		Using the cloud --> cloud providers in market --> AWS/Azure/GCP/Alibaba/Oracle.....
+		
+		By using all above cloud platform are we going to get same kind of services or different kind of services ??? [alomost we are going to same kind of services]
+		
+		AWS - EC2
+		GCP - Compute engine
+		
+		Some of the companies or most of the companies are migrating to the cloud
+		Already some of the companies are migrated to the cloud
+		
+		In next 3 to 5 years --> all the companies will migrate to the cloud
+		
+		Do we need to worry about jobs on cloud?? No
+		Do we need to worry about jobs on Data engineering?? [data data data data] --> Till whatever the time data available in the market we can able to see openings for data engineers. ?? No
+		
+		Cloud + Data engineer ==> BOTH ==> You can able to get more number of calls/Good packages/no need to worry about your carrer
+		
+
+
+
+Tomorrow session:
+
+Complete course plan 
+
+Weekends -->
+
+Weekends also we will have the classes -->
+
+course plan/Timings of the classes / how we are going to cover everything / project support to the students / carrer guidance to the students --> Tomorrows sessions
+
+
+1. notes [to you rmail ids]
+2. Handouts
+3. Videos
+
+Recap everything whatever we are discussing in the classes
+
+online + offline classes 
+
+*********************************************************************************************************
+
+10 to 11:30 --> 
+
+8:30 to 10
+
+
+JOIP programme
+
+8:30 to 10 [GCP services]
+11:45 to 1:15 [sql/python]
+2:30 to 4 [sql/python]
